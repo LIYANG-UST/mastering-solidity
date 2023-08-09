@@ -31,8 +31,8 @@ Part2: Advanced Solidity
 - Chapter13: Data Location
 - Chapter14: Gas Optimization
 - Chapter15: Proxy and Upgradeable Contracts
-
 - Chapter16: Inline Assembly
+
 Part3: Important EIPs
 - Chapter17: ERC20
 - Chapter18: ERC721
